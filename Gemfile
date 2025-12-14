@@ -45,7 +45,7 @@ end
 
 gem 'net-ldap', '~> 0.16'
 gem 'omniauth-cas', '~> 1.1'
-gem 'omniauth-saml', '~> 1.10'
+gem 'omniauth-saml', '~> 1.10', '>= 1.10.4'
 gem 'omniauth', '~> 1.9'
 
 gem 'color_diff', '~> 0.1'
